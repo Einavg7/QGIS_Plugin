@@ -1,6 +1,6 @@
-# QGIS_Plugin
+# QGIS Plugin - Field Remover
 
-As part of the Python in GIS course given at IFGI, we created a plugin for removing empty fields in a vector in QGIS. 
+As part of the Python in GIS course given at IFGI, we created a plugin for removing empty fields in a vector file in QGIS. 
 This repository includes the files to create a field_remover plugin. The main code is written in **field_remover.py**.
 
 ### This plugin was build using:
